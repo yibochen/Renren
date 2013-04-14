@@ -1,7 +1,7 @@
 Renren
 这是一个用于抓取人人网网站数据并做一些分析的R包
 ======
-zip包下载地址：http://vdisk.weibo.com/s/uKPy-
+zip包下载地址：http://vdisk.weibo.com/s/xAbIy
 
 目前主要的函数有：
 f_renren_login      登录
