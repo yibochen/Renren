@@ -19,5 +19,6 @@ ch0 <- f_renren_login('myemail', 'mypwd')
 ch0 <- f_renren_login(cookie_file='C:/Users/ASUS/Desktop/cookies.txt')
 
 # 1、好友关系网络的可视化
+# 运行完成后，会在工作路径下生成renren_mysns_时间.png文件
 renren_sns <- f_renren_sns(cH=ch0, topk=3)
 head(renren_sns$sns_df)
